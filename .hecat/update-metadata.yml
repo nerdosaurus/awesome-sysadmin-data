@@ -1,0 +1,7 @@
+steps:
+  - name: update all metadata from Github/GitLab API
+    module: processors/software_metadata
+    module_options:
+      source_directory: ./
+      metadata_only_missing: False
+      sleep_time: 10

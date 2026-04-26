@@ -19,3 +19,18 @@ import: clean install
 	mkdir -p tags/ software/ platforms/
 	source .venv/bin/activate && \
 	hecat --config .hecat/import.yml
+
+.PHONY: update_metadata # update metadata from project repositories/API
+update_metadata:
+	source .venv/bin/activate && \
+	hecat --config .hecat/update-metadata.yml
+
+.PHONY: awesome_lint_strict # check data against awesome-selfhosted guidelines (strict)
+awesome_lint_strict:
+	source .venv/bin/activate && \
+	hecat --config .hecat/awesome-lint-strict.yml
+
+.PHONY: url_check # check URLs for dead links or other connection problems
+url_check:
+	source .venv/bin/activate && \
+	hecat --config .hecat/url-check.yml
