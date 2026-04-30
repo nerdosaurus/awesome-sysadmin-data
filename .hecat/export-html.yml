@@ -4,3 +4,5 @@ steps:
     module_options:
       source_directory: ./
       output_directory: html
+      exclude_licenses:
+        - None
