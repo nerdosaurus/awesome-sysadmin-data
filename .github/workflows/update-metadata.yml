@@ -1,8 +1,8 @@
 name: update metadata
 
 on:
-  #schedule:
-  #  - cron: '0 23 * * *'
+  schedule:
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 env:
@@ -28,3 +28,8 @@ jobs:
           git add software/ tags/ platforms/ licenses*.yml
           git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
           git push
+  build:
+    if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
+    needs: update-metadata
+    uses: ./.github/workflows/build.yml
+    secrets: inherit

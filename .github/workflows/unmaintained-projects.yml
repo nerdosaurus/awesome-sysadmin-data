@@ -6,13 +6,14 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: update-metadata-${{ github.ref }}
+  group: unmaintained-projects-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   check-unmaintained-projects:
     if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
     runs-on: ubuntu-latest
+    environment: production
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
       - run: make install

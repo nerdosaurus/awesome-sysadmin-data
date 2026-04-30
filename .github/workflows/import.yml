@@ -1,4 +1,4 @@
-name: import.yml
+name: import
 
 on:
   schedule:
