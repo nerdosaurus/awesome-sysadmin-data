@@ -49,7 +49,7 @@ export_html:
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees awesome-sysadmin-html/*
 	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-foss/awesome-sysadmin-html. Raw data is available at https://github.com/awesome-foss/awesome-sysadmin-data" >| html/html/robots.txt
-	touch .nojekyll
+	touch html/html/.nojekyll
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:
