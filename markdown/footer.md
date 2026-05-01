@@ -49,6 +49,6 @@ Contributing guidelines can be found [here](https://github.com/Rabenherz112/awes
 
 ## License
 
-![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+This list is under the [Creative Commons Attribution-ShareAlike 4.0 International](LICENSE).
+Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/4.0).
+The list of authors can be found in the [AUTHORS](AUTHORS) file.
