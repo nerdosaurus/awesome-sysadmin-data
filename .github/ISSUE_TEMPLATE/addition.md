@@ -9,7 +9,7 @@ assignees: ''
 
 <!-- DO NOT DELETE THE TEXT BELOW . Please make sure relevant boxes are checked [x] -->
 
-Thanks for taking the time to suggest an addition to awesome-sysadmin! 
+Thanks for taking the time to suggest an addition to awesome-sysadmin!
 
 Please fill out information below (all fields are mandatory unless noted otherwise):
 
@@ -52,6 +52,7 @@ To ensure your issue is dealt with swiftly, please check the following (check th
 
 - [ ] Submit one item per issue. This eases reviewing and speeds up inclusion.
 - [ ] You have searched the repository for any relevant [issues](https://github.com/awesome-foss/awesome-sysadmin-data/issues) or [PRs](https://github.com/awesome-foss/awesome-sysadmin-data/pulls), including closed ones.
-- [ ] Any software you are adding is not already listed at any of [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), [staticgen.com](https://www.staticgen.com/), [staticsitegenerators.bevry.me](https://staticsitegenerators.bevry.me/), [dbdb.io](https://dbdb.io/browse).
+- [ ] Any software you are adding is not already listed at any of [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted), [dbdb.io](https://dbdb.io/browse).
 - [ ] Any software project you are adding to the list is actively maintained.
+- [ ] Any software project you are adding was first released more than 12 months ago.
 - [ ] Any software project you are adding has working installation instructions.
