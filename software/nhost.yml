@@ -10,13 +10,3 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/nhost/nhost
-stargazers_count: 9158
-updated_at: '2026-05-19'
-archived: false
-current_release:
-  tag: cli@1.46.0
-  published_at: '2026-05-19'
-commit_history:
-  2026-03: 110
-  2026-04: 89
-  2026-05: 56
