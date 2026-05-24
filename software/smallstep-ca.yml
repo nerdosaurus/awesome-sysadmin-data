@@ -1,7 +1,7 @@
 name: Smallstep Certificate Authority
 website_url: https://smallstep.com/docs/step-ca
 source_code_url: https://github.com/smallstep/certificates
-description: 'Private certificate authority (X.509 and SSH) with automated certificate management, ACME support, and linked to Let\'s Encrypt for web PKI.'
+description: 'Private certificate authority (X.509 and SSH) with automated certificate management, ACME support, and linked to Lets Encrypt for web PKI.'
 licenses:
   - Apache-2.0
 platforms:
