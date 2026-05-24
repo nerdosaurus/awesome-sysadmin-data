@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - Automation
+  - Build Automation
 source_code_url: https://github.com/ruby/rake
 stargazers_count: 2438
 updated_at: '2026-05-20'

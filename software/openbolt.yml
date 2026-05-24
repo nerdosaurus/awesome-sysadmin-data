@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Ruby
 tags:
-  - Automation
+  - Build Automation
 source_code_url: https://github.com/OpenVoxProject/openbolt
 stargazers_count: 22
 updated_at: '2026-05-20'

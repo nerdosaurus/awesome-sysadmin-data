@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Java
 tags:
-  - Automation
+  - Build Automation
 source_code_url: https://github.com/apache/maven
 stargazers_count: 5052
 updated_at: '2026-05-20'

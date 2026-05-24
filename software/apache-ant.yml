@@ -6,7 +6,7 @@ licenses:
 platforms:
   - Java
 tags:
-  - Automation
+  - Build Automation
 source_code_url: https://github.com/apache/ant
 stargazers_count: 460
 updated_at: '2026-05-16'
