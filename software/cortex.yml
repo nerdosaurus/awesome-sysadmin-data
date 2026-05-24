@@ -1,0 +1,13 @@
+name: Cortex
+website_url: https://thehive-project.org
+source_code_url: https://github.com/TheHive-Project/Cortex
+description: 'Observable analysis engine for SOCs and security analysts. Analyzes IPs, URLs, domain names, files, and hashes using a modular analyzer system with a web interface and REST API.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Java
+  - deb
+tags:
+  - Incident Response
+  - Threat Intelligence

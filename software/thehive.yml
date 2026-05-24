@@ -1,0 +1,13 @@
+name: TheHive
+website_url: https://thehive-project.org
+source_code_url: https://github.com/TheHive-Project/TheHive
+description: 'Scalable, open source Security Incident Response Platform tightly integrated with MISP. Designed for SOCs, CSIRTs, and CERTs for security incident investigation and management.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Java
+  - deb
+tags:
+  - Incident Response
+  - Threat Intelligence

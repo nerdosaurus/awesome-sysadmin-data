@@ -1,0 +1,11 @@
+name: Atomic Red Team
+website_url: https://atomicredteam.io
+source_code_url: https://github.com/redcanaryco/atomic-red-team
+description: 'Library of simple, modular, and well-documented tests mapped to MITRE ATT&CK that every security team can execute to validate their defenses.'
+licenses:
+  - MIT
+platforms:
+  - PowerShell
+  - Python
+tags:
+  - Adversary Emulation

@@ -1,0 +1,12 @@
+name: Viper
+website_url: https://viper.li
+source_code_url: https://github.com/viper-framework/viper
+description: 'Binary analysis and management framework for organizing malware and exploit samples, with support for scripting, plugins, and integration with analysis tools.'
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+  - Python
+tags:
+  - Malware Analysis
+  - Threat Intelligence

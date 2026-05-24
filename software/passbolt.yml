@@ -1,0 +1,11 @@
+name: Passbolt
+website_url: https://passbolt.com
+source_code_url: https://github.com/passbolt/passbolt_api
+description: 'Open source password manager designed for team collaboration with features for sharing, permissions, and audit trail. Provides browser extensions and mobile apps.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - PHP
+tags:
+  - Secrets Management

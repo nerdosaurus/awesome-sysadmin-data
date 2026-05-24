@@ -1,0 +1,13 @@
+name: Trivy
+website_url: https://trivy.dev
+source_code_url: https://github.com/aquasecurity/trivy
+description: 'Comprehensive vulnerability scanner for containers, Kubernetes, infrastructure-as-code, repositories, and filesystems. Finds vulnerabilities, misconfigurations, and secrets.'
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+  - deb
+  - rpm
+tags:
+  - Vulnerability Management

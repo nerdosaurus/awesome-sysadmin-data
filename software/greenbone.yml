@@ -1,0 +1,11 @@
+name: Greenbone
+website_url: https://www.greenbone.net
+source_code_url: https://github.com/greenbone/openvas-scanner
+description: 'Full-featured vulnerability scanner (formerly OpenVAS) for unauthenticated and authenticated testing across high and low level protocols, with performance tuning for large-scale scans.'
+licenses:
+  - GPL-2.0
+platforms:
+  - Docker
+  - deb
+tags:
+  - Vulnerability Management

@@ -1,0 +1,13 @@
+name: ModSecurity
+website_url: https://modsecurity.org
+source_code_url: https://github.com/owasp-modsecurity/ModSecurity
+description: 'Open source, cross-platform web application firewall (WAF) engine providing HTTP traffic inspection, logging, and rule-based attack prevention with the OWASP Core Rule Set.'
+licenses:
+  - Apache-2.0
+platforms:
+  - C
+  - Docker
+  - deb
+tags:
+  - WAF
+  - Web

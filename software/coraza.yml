@@ -1,0 +1,11 @@
+name: Coraza
+website_url: https://coraza.io
+source_code_url: https://github.com/corazawaf/coraza
+description: 'Enterprise-grade, OWASP Core Rule Set compatible web application firewall written in Go. Modular architecture with support for multiple HTTP servers and reverse proxies.'
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Go
+tags:
+  - WAF

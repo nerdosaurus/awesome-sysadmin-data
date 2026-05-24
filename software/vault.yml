@@ -1,0 +1,13 @@
+name: HashiCorp Vault
+website_url: https://www.vaultproject.io
+source_code_url: https://github.com/hashicorp/vault
+description: 'Tool for secrets management, encryption as a service, and privileged access management. Secures, stores, and tightly controls access to tokens, passwords, certificates, and encryption keys.'
+licenses:
+  - BUSL-1.1
+platforms:
+  - Docker
+  - Go
+  - deb
+  - rpm
+tags:
+  - Secrets Management

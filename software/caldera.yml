@@ -1,0 +1,11 @@
+name: CALDERA
+website_url: https://caldera.mitre.org
+source_code_url: https://github.com/mitre/caldera
+description: 'Cyber security framework designed to easily run autonomous breach-and-simulation exercises. Can also run manual red-team engagements or automated incident response.'
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Adversary Emulation

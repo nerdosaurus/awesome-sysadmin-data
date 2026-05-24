@@ -1,0 +1,13 @@
+name: PacketFence
+website_url: https://packetfence.org
+source_code_url: https://github.com/inverse-inc/packetfence
+description: 'Fully supported, trusted, Free and Open Source Network Access Control (NAC) system with captive portal, wired/wireless/VPN management, 802.1X, and layer-2 isolation.'
+licenses:
+  - GPL-2.0
+platforms:
+  - Docker
+  - deb
+  - rpm
+tags:
+  - Network Security Monitoring
+  - Router

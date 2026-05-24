@@ -1,0 +1,11 @@
+name: Infection Monkey
+website_url: https://www.guardicore.com/infectionmonkey
+source_code_url: https://github.com/guardicore/monkey
+description: 'Open source Breach and Attack Simulation (BAS) tool for assessing the resiliency of private and public cloud environments to post-breach attacks and lateral movement.'
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Adversary Emulation

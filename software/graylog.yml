@@ -1,0 +1,14 @@
+name: GrayLog
+website_url: https://www.graylog.org
+source_code_url: https://github.com/Graylog2/graylog2-server
+description: 'Centralized log management solution for capturing, storing, and enabling real-time analysis of terabytes of machine data.'
+licenses:
+  - SSPL-1.0
+platforms:
+  - Docker
+  - deb
+  - rpm
+  - Java
+tags:
+  - SIEM
+  - Log Management

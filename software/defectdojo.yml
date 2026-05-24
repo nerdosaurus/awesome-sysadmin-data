@@ -1,0 +1,11 @@
+name: DefectDojo
+website_url: https://defectdojo.com
+source_code_url: https://github.com/DefectDojo/django-DefectDojo
+description: 'Open source application vulnerability management platform that streamlines the process of aggregating, managing, and reporting security findings from multiple scanners.'
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Docker
+  - Python
+tags:
+  - Vulnerability Management

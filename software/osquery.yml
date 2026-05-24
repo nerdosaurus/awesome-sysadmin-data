@@ -1,0 +1,13 @@
+name: OSQuery
+website_url: https://osquery.io
+source_code_url: https://github.com/osquery/osquery
+description: 'SQL-based operating system instrumentation framework for monitoring and querying OS state including processes, kernel modules, network connections, and file integrity.'
+licenses:
+  - Apache-2.0
+platforms:
+  - deb
+  - rpm
+  - Docker
+tags:
+  - Endpoint Security
+  - Monitoring & Status Pages

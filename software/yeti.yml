@@ -1,0 +1,11 @@
+name: YETI
+website_url: https://yeti-platform.github.io
+source_code_url: https://github.com/yeti-platform/yeti
+description: 'Platform for organizing observables, indicators of compromise, TTPs, and threat knowledge in a single unified repository with automatic enrichment.'
+licenses:
+  - Apache-2.0
+platforms:
+  - Docker
+  - Python
+tags:
+  - Threat Intelligence

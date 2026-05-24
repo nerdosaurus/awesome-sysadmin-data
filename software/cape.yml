@@ -1,0 +1,12 @@
+name: CAPE
+website_url: https://capev2.com
+source_code_url: https://github.com/kevoreilly/CAPEv2
+description: 'Malware configuration and payload extraction framework built on Cuckoo Sandbox. Detects and extracts malware configurations, payloads, and indicators of compromise.'
+licenses:
+  - GPL-3.0
+platforms:
+  - Docker
+  - Python
+  - deb
+tags:
+  - Malware Analysis

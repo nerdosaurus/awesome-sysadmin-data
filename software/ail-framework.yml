@@ -1,0 +1,12 @@
+name: AIL framework
+website_url: https://www.ail-project.org
+source_code_url: https://github.com/CIRCL/AIL-framework
+description: 'Modular framework for analysing potential information leaks from unstructured data sources like pastes and data streams. Supports data leak prevention and sensitive information mining.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - Python
+  - deb
+tags:
+  - Threat Intelligence
