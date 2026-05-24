@@ -6,5 +6,5 @@ licenses:
 platforms:
   - Java
 tags:
-  - Automation
+  - Build Automation
 source_code_url: https://github.com/bazelbuild/bazel/

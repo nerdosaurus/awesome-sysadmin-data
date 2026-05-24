@@ -7,5 +7,5 @@ platforms:
   - Groovy
   - Java
 tags:
-  - Automation
+  - Build Automation
 source_code_url: https://github.com/gradle/gradle
