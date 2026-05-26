@@ -51,6 +51,10 @@
   name: IBM Public License v1.0
   url: https://spdx.org/licenses/IPL-1.0.html
 
+- identifier: SSPL-1.0
+  name: Server Side Public License 1.0
+  url: https://spdx.org/licenses/SSPL-1.0.html
+
 - identifier: ISC
   name: ISC License
   url: https://spdx.org/licenses/ISC.html

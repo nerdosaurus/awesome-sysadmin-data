@@ -9,5 +9,4 @@ platforms:
   - Docker
   - deb
 tags:
-  - WAF
-  - Web
+  - IDS / IPS

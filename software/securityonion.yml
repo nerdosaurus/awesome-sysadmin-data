@@ -5,7 +5,6 @@ description: 'Free and open source Linux distribution for threat hunting, enterp
 licenses:
   - GPL-2.0
 platforms:
-  - Linux
   - Docker
 tags:
   - SIEM

@@ -1,6 +1,0 @@
-name: WAF
-description: 'Web Application Firewalls — HTTP traffic filtering, inspection, and rule-based attack prevention.'
-related_tags:
-  - Web
-  - Proxy
-  - IDS / IPS
