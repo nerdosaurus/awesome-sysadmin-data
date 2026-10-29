@@ -13,7 +13,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-security-metadata
+  group: local-security-cats
   cancel-in-progress: true
 
 jobs:

@@ -1,0 +1,36 @@
+name: sync upstream
+
+# Rebuild local-security-cats on awesome-foss/awesome-sysadmin-data, keeping
+# the security entries upstream will not take. Runs weekly; the daily
+# update-security-metadata workflow shares the concurrency group so the two
+# never push at the same time.
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: local-security-cats
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.repository == 'nerdosaurus/awesome-sysadmin-data'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Rebuild on upstream and push
+        run: |
+          git config user.name awesome-sysadmin-sync-bot
+          git config user.email github-actions@github.com
+          python scripts/sync_upstream.py --push
