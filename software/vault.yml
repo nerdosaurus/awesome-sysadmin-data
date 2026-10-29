@@ -15,10 +15,10 @@ tags:
 - Secrets Management
 stargazers_count: 36447
 archived: false
-updated_at: '2026-10-28'
+updated_at: '2026-10-29'
 current_release:
-  tag: v2.0.2
-  published_at: '2026-06-05'
+  tag: v2.2.1
+  published_at: '2026-10-22'
 commit_history:
   2025-07: 125
   2025-08: 238
