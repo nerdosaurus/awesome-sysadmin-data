@@ -1,0 +1,41 @@
+name: update security metadata
+
+# Upstream's bot only runs in awesome-foss/awesome-sysadmin-data, so the 29
+# entries this fork keeps never get refreshed there. This workflow does the
+# same job for those files on local-security-cats.
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-security-metadata
+  cancel-in-progress: true
+
+jobs:
+  update:
+    if: github.repository == 'nerdosaurus/awesome-sysadmin-data'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: local-security-cats
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pyyaml
+      - name: Refresh stars, releases and archive flags
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_security_metadata.py
+      - name: Commit and push
+        run: |
+          git config user.name awesome-sysadmin-security-bot
+          git config user.email github-actions@github.com
+          git add software
+          git diff-index --quiet HEAD || git commit -m "[bot] update security metadata"
+          git push

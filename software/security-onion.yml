@@ -1,0 +1,33 @@
+name: SecurityOnion
+website_url: https://securityonion.net
+source_code_url: https://github.com/Security-Onion-Solutions/securityonion
+description: Free and open source Linux distribution for threat hunting, enterprise
+  security monitoring, and log management. Includes Elasticsearch, Kibana, Suricata,
+  Zeek, Wazuh, and many other security tools.
+licenses:
+- GPL-2.0
+platforms:
+- Linux
+- Docker
+tags:
+- SIEM
+- Network Security Monitoring
+stargazers_count: 4950
+archived: false
+updated_at: '2026-10-28'
+current_release:
+  tag: 3.1.0-20260528
+  published_at: '2026-05-28'
+commit_history:
+  2025-06: 43
+  2025-07: 112
+  2025-08: 135
+  2025-09: 143
+  2025-10: 87
+  2025-11: 177
+  2025-12: 69
+  2026-01: 114
+  2026-02: 111
+  2026-03: 218
+  2026-04: 177
+  2026-05: 85

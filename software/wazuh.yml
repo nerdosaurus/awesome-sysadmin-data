@@ -6,6 +6,8 @@ licenses:
 platforms:
   - C
 tags:
+  - Endpoint Security
+  - SIEM
   - Monitoring & Status Pages
 source_code_url: https://github.com/wazuh/wazuh
 stargazers_count: 17478

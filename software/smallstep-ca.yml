@@ -1,0 +1,34 @@
+name: Smallstep Certificate Authority
+website_url: https://smallstep.com/docs/step-ca
+source_code_url: https://github.com/smallstep/certificates
+description: Private certificate authority (X.509 and SSH) with automated certificate
+  management, ACME support, and linked to Lets Encrypt for web PKI.
+licenses:
+- Apache-2.0
+platforms:
+- Docker
+- Go
+- deb
+- rpm
+tags:
+- Secrets Management
+- Identity Management
+stargazers_count: 9023
+archived: false
+updated_at: '2026-10-27'
+current_release:
+  tag: v0.30.2
+  published_at: '2026-03-23'
+commit_history:
+  2025-07: 15
+  2025-08: 22
+  2025-09: 19
+  2025-10: 21
+  2025-11: 30
+  2025-12: 9
+  2026-01: 33
+  2026-02: 18
+  2026-03: 42
+  2026-04: 33
+  2026-05: 27
+  2026-06: 4

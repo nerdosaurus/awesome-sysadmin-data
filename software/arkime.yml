@@ -1,0 +1,21 @@
+name: Arkime
+website_url: https://arkime.com
+source_code_url: https://github.com/arkime/arkime
+description: Large-scale full packet capture, indexing, and database system for network
+  traffic analysis. Augments security infrastructure by storing and indexing PCAP
+  data with fast indexed access (formerly Moloch).
+licenses:
+- Apache-2.0
+platforms:
+- Docker
+- deb
+- rpm
+tags:
+- Network Security Monitoring
+- IDS / IPS
+stargazers_count: 7553
+archived: false
+updated_at: '2026-10-29'
+current_release:
+  tag: v6.4.0
+  published_at: '2026-05-20'

@@ -1,0 +1,31 @@
+name: Infisical
+website_url: https://infisical.com
+source_code_url: https://github.com/Infisical/infisical
+description: Open source secrets management platform for teams to sync, manage, and
+  inject secrets across infrastructure, applications, and developer workflows.
+licenses:
+- MIT
+platforms:
+- Docker
+- Nodejs
+tags:
+- Secrets Management
+stargazers_count: 30131
+archived: false
+updated_at: '2026-10-29'
+current_release:
+  tag: v0.161.0
+  published_at: '2026-06-12'
+commit_history:
+  2025-07: 576
+  2025-08: 585
+  2025-09: 413
+  2025-10: 800
+  2025-11: 1060
+  2025-12: 373
+  2026-01: 877
+  2026-02: 622
+  2026-03: 1537
+  2026-04: 1226
+  2026-05: 1444
+  2026-06: 191

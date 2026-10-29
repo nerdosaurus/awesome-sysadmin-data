@@ -1,0 +1,6 @@
+name: Incident Response
+description: 'Security incident response platforms and orchestration tools for SOCs, CSIRTs, and CERTs.'
+related_tags:
+  - Threat Intelligence
+  - SIEM
+  - Case Management

@@ -1,0 +1,35 @@
+name: Velociraptor
+website_url: https://docs.velociraptor.app
+source_code_url: https://github.com/Velocidex/velociraptor
+description: Tool for collecting host-based state information using Velocidex Query
+  Language (VQL). Provides digital forensic and incident response capabilities across
+  large fleets of endpoints.
+licenses:
+- AGPL-3.0
+platforms:
+- Docker
+- Go
+- deb
+- rpm
+tags:
+- Endpoint Security
+- Incident Response
+stargazers_count: 4391
+archived: false
+updated_at: '2026-10-29'
+current_release:
+  tag: v0.76.6
+  published_at: '2026-06-03'
+commit_history:
+  2025-07: 20
+  2025-08: 28
+  2025-09: 21
+  2025-10: 17
+  2025-11: 24
+  2025-12: 16
+  2026-01: 44
+  2026-02: 24
+  2026-03: 43
+  2026-04: 23
+  2026-05: 26
+  2026-06: 8

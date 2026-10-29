@@ -1,0 +1,28 @@
+name: Atomic Red Team
+website_url: https://atomicredteam.io
+source_code_url: https://github.com/redcanaryco/atomic-red-team
+description: Library of simple, modular, and well-documented tests mapped to MITRE
+  ATT&CK that every security team can execute to validate their defenses.
+licenses:
+- MIT
+platforms:
+- PowerShell
+- Python
+tags:
+- Adversary Emulation
+stargazers_count: 12741
+archived: false
+updated_at: '2026-10-27'
+commit_history:
+  2025-06: 17
+  2025-07: 13
+  2025-08: 20
+  2025-09: 23
+  2025-10: 17
+  2025-11: 15
+  2025-12: 7
+  2026-01: 16
+  2026-02: 13
+  2026-03: 11
+  2026-04: 24
+  2026-05: 19
