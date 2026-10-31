@@ -11,9 +11,9 @@ platforms:
 - Go
 tags:
 - WAF
-stargazers_count: 3977
+stargazers_count: 3981
 archived: false
-updated_at: '2026-10-30'
+updated_at: '2026-10-31'
 current_release:
   tag: v3.8.1
   published_at: '2026-10-02'
