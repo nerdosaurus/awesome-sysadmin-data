@@ -12,9 +12,9 @@ platforms:
 - deb
 tags:
 - Malware Analysis
-stargazers_count: 3640
+stargazers_count: 3644
 archived: false
-updated_at: '2026-10-28'
+updated_at: '2026-10-31'
 commit_history:
   2025-07: 32
   2025-08: 41
