@@ -11,9 +11,9 @@ platforms:
 - Python
 tags:
 - Vulnerability Management
-stargazers_count: 5182
+stargazers_count: 5191
 archived: false
-updated_at: '2026-11-03'
+updated_at: '2026-11-05'
 current_release:
   tag: 3.5.0
   published_at: '2026-11-02'

@@ -11,9 +11,9 @@ platforms:
 - Python
 tags:
 - Adversary Emulation
-stargazers_count: 7120
+stargazers_count: 7125
 archived: false
-updated_at: '2025-05-01'
+updated_at: '2026-11-03'
 current_release:
   tag: v2.3.0
   published_at: '2023-09-19'
