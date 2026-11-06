@@ -13,9 +13,9 @@ platforms:
 - rpm
 tags:
 - Secrets Management
-stargazers_count: 36467
+stargazers_count: 36473
 archived: false
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 current_release:
   tag: v2.2.1
   published_at: '2026-10-22'

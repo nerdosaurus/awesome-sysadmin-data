@@ -11,12 +11,12 @@ platforms:
 - Docker
 tags:
 - IDS / IPS
-stargazers_count: 3465
+stargazers_count: 3463
 archived: false
-updated_at: '2026-10-21'
+updated_at: '2026-11-05'
 current_release:
-  tag: 3.12.4.0
-  published_at: '2026-10-21'
+  tag: 3.13.2.0
+  published_at: '2026-11-05'
 commit_history:
   2025-06: 13
   2025-07: 36

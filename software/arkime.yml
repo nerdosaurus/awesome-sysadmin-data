@@ -13,9 +13,9 @@ platforms:
 tags:
 - Network Security Monitoring
 - IDS / IPS
-stargazers_count: 7561
+stargazers_count: 7562
 archived: false
-updated_at: '2026-11-05'
+updated_at: '2026-11-06'
 current_release:
   tag: v6.9.1
   published_at: '2026-10-22'
