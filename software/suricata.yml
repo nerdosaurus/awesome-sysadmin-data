@@ -13,9 +13,9 @@ platforms:
 tags:
 - IDS / IPS
 - Network Security Monitoring
-stargazers_count: 6828
+stargazers_count: 6832
 archived: false
-updated_at: '2026-11-05'
+updated_at: '2026-11-07'
 current_release:
   tag: suricata-8.0.8
   published_at: '2026-10-29'
