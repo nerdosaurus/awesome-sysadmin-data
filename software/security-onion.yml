@@ -12,9 +12,9 @@ platforms:
 tags:
 - SIEM
 - Network Security Monitoring
-stargazers_count: 4979
+stargazers_count: 4984
 archived: false
-updated_at: '2026-11-09'
+updated_at: '2026-11-10'
 current_release:
   tag: 3.4.0-20261102
   published_at: '2026-11-02'

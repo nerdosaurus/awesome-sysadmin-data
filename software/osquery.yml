@@ -13,9 +13,9 @@ platforms:
 tags:
 - Endpoint Security
 - Monitoring & Status Pages
-stargazers_count: 23752
+stargazers_count: 23754
 archived: false
-updated_at: '2026-11-10'
+updated_at: '2026-11-11'
 current_release:
   tag: 5.24.1
   published_at: '2026-10-29'

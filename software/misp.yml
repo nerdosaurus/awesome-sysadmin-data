@@ -13,9 +13,9 @@ platforms:
 tags:
 - Threat Intelligence
 - Incident Response
-stargazers_count: 6657
+stargazers_count: 6660
 archived: false
-updated_at: '2026-11-09'
+updated_at: '2026-11-10'
 current_release:
   tag: v2.5.50
   published_at: '2026-10-10'
