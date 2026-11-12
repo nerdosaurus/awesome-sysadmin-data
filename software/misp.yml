@@ -13,12 +13,12 @@ platforms:
 tags:
 - Threat Intelligence
 - Incident Response
-stargazers_count: 6660
+stargazers_count: 6662
 archived: false
-updated_at: '2026-11-10'
+updated_at: '2026-11-11'
 current_release:
-  tag: v2.5.50
-  published_at: '2026-10-10'
+  tag: v2.5.51
+  published_at: '2026-11-11'
 commit_history:
   2025-07: 110
   2025-08: 97

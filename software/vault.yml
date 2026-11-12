@@ -13,12 +13,12 @@ platforms:
 - rpm
 tags:
 - Secrets Management
-stargazers_count: 36497
+stargazers_count: 36504
 archived: false
-updated_at: '2026-11-11'
+updated_at: '2026-11-12'
 current_release:
-  tag: v2.2.1
-  published_at: '2026-10-22'
+  tag: v2.2.2
+  published_at: '2026-11-12'
 commit_history:
   2025-07: 125
   2025-08: 238
