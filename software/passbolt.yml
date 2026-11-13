@@ -11,12 +11,12 @@ platforms:
 - PHP
 tags:
 - Secrets Management
-stargazers_count: 6233
+stargazers_count: 6236
 archived: false
 updated_at: '2026-11-12'
 current_release:
-  tag: v5.17.0
-  published_at: '2026-10-20'
+  tag: v5.18.0
+  published_at: '2026-11-12'
 commit_history:
   2025-07: 180
   2025-08: 171
