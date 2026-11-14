@@ -14,9 +14,9 @@ platforms:
 tags:
 - Endpoint Security
 - Incident Response
-stargazers_count: 4450
+stargazers_count: 4456
 archived: false
-updated_at: '2026-11-12'
+updated_at: '2026-11-14'
 current_release:
   tag: v0.77.3
   published_at: '2026-10-05'

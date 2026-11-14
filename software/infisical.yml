@@ -10,11 +10,11 @@ platforms:
 - Nodejs
 tags:
 - Secrets Management
-stargazers_count: 30477
+stargazers_count: 30506
 archived: false
-updated_at: '2026-11-13'
+updated_at: '2026-11-14'
 current_release:
-  tag: v0.167.9
+  tag: v0.167.10
   published_at: '2026-11-13'
 commit_history:
   2025-07: 576
