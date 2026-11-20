@@ -10,12 +10,12 @@ platforms:
 - Python
 tags:
 - Threat Intelligence
-stargazers_count: 2046
+stargazers_count: 2045
 archived: false
-updated_at: '2026-11-15'
+updated_at: '2026-11-19'
 current_release:
-  tag: 2.12.0
-  published_at: '2026-10-02'
+  tag: 2.13.0
+  published_at: '2026-11-19'
 commit_history:
   2025-06: 1
   2025-07: 2
