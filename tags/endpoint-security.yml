@@ -1,0 +1,5 @@
+name: Endpoint Security
+description: 'Endpoint detection and response (EDR), host intrusion detection, and forensic collection agents.'
+related_tags:
+  - SIEM
+  - Vulnerability Management
