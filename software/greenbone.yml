@@ -11,9 +11,9 @@ platforms:
 - deb
 tags:
 - Vulnerability Management
-stargazers_count: 4954
+stargazers_count: 4956
 archived: false
-updated_at: '2026-11-23'
+updated_at: '2026-11-24'
 current_release:
   tag: v23.52.12
   published_at: '2026-11-12'
