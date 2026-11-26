@@ -12,9 +12,9 @@ platforms:
 - rpm
 tags:
 - Vulnerability Management
-stargazers_count: 39726
+stargazers_count: 39774
 archived: false
-updated_at: '2026-11-24'
+updated_at: '2026-11-26'
 current_release:
   tag: v0.76.2
   published_at: '2026-11-05'
