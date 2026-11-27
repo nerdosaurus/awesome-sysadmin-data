@@ -13,9 +13,9 @@ platforms:
 tags:
 - Secrets Management
 - Identity Management
-stargazers_count: 9108
+stargazers_count: 9112
 archived: false
-updated_at: '2026-11-25'
+updated_at: '2026-11-26'
 current_release:
   tag: v0.30.2
   published_at: '2026-03-23'
